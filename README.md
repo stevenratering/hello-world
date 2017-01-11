@@ -1,3 +1,4 @@
 # hello-world
 hello github
-is this on the readme edits branch?
+I forget what change control system I used at Lucent.
+I used subversion a little at UWEC.
